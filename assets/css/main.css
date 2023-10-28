@@ -904,7 +904,6 @@ a:hover {
 	}
 
 	#bg {
-		background-size: 20% auto;
 		background-size: contain;
 		width: 4500px;
 	}
@@ -991,7 +990,6 @@ a:hover {
 	}
 
 	#bg {
-		background-size: 2250px auto;
 		background-size: contain;
 		width: 2250px;
 	}
@@ -1082,7 +1080,6 @@ a:hover {
 	}
 
 	#bg {
-		background-size: 900px auto;
 		background-size: contain;
 		width: 900px;
 	}
@@ -1182,7 +1179,6 @@ a:hover {
 	}
 
 	#bg {
-		background-size: auto auto;
 		background-size: contain;
 		width: 1237.5px;
 	}
