@@ -11,6 +11,9 @@ meta {
 	viewport-fit: cover;
 }
 
+body {
+	background-color: black;
+}
 
 html,
 body,
