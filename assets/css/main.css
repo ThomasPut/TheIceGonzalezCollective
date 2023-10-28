@@ -1182,7 +1182,7 @@ a:hover {
 	}
 
 	#bg {
-		background-size: 1237.5px auto;
+		background-size: auto auto;
 		background-size: contain;
 		width: 1237.5px;
 	}
