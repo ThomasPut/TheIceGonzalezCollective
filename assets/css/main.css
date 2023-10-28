@@ -327,6 +327,7 @@ a:hover {
 	left: 0;
 	opacity: 1;
 	position: fixed;
+	background-size: contain;
 	top: 0;
 }
 
@@ -396,6 +397,7 @@ a:hover {
 
 #bg {
 	background-size: auto auto;
+	background-size: contain;
 	width: 6750px;
 }
 
@@ -902,7 +904,8 @@ a:hover {
 	}
 
 	#bg {
-		background-size: auto auto;
+		background-size: 20% auto;
+		background-size: contain;
 		width: 4500px;
 	}
 }
@@ -988,7 +991,8 @@ a:hover {
 	}
 
 	#bg {
-		background-size: auto auto;
+		background-size: 2250px auto;
+		background-size: contain;
 		width: 2250px;
 	}
 }
@@ -1078,7 +1082,8 @@ a:hover {
 	}
 
 	#bg {
-		background-size: auto auto;
+		background-size: 900px auto;
+		background-size: contain;
 		width: 900px;
 	}
 
@@ -1177,7 +1182,8 @@ a:hover {
 	}
 
 	#bg {
-		background-size: auto auto;
+		background-size: 1237.5px auto;
+		background-size: contain;
 		width: 1237.5px;
 	}
 
@@ -1186,10 +1192,4 @@ a:hover {
 	#header nav {
 		padding: 0 1em;
 	}
-}
-
-#tickets:hover,
-#tickets:active {
-	color: #fff;
-
 }
